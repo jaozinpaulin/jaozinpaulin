@@ -1,16 +1,34 @@
-## Hi there 👋
+![dev](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<!--
-**jaozinpaulin/jaozinpaulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou João
 
-Here are some ideas to get you started:
+💻 Estudante de ADS | Front-end em formação  
+☕ Café, código e boas ideias em construção  
+🚀 Evoluindo um commit por vez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+- 📚 Estudando HTML, CSS e JavaScript
+- 🧩 Construindo projetos práticos (ToDo, Pokédex)
+- 🎯 Foco em evolução como desenvolvedor front-end
+- 🏠 Gostaria de trabalhar remoto no futuro
+
+---
+
+## 🚀 Projetos
+- 📝 ToDo App (JavaScript + LocalStorage)
+- 🧭 Pokédex (consumo de API)
+- 🌐 Outros projetos em andamento...
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📫 Contato
+- GitHub: @seuusuario
