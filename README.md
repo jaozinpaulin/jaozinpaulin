@@ -34,8 +34,15 @@
 </p>
 
 <p align="center">
-  <i>Foco em desenvolvimento front-end com base sólida em lógica</i>
+  <i>Front-end focado em interfaces interativas e lógica com JavaScript</i>
 </p>
+
+---
+
+## 📚 Atualmente estudando
+- JavaScript avançado
+- Manipulação de DOM
+- Lógica de programação
 
 ---
 
@@ -60,6 +67,13 @@ Projeto consumindo API com JavaScript puro.
 🟡 Em desenvolvimento  
 🔗 https://github.com/jaozinpaulin/todo-list  
 Sistema de tarefas com localStorage (CRUD completo).
+
+Sistema de tarefas com:
+- ✔ adicionar
+- ✔ remover
+- ✔ concluir tarefas
+- ✔ armazenamento com localStorage  
+
 
 🟢 Concluído | 🟡 Em desenvolvimento | 🔵 Planejado
 
