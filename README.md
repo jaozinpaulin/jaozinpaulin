@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Projetos
+## 🚀 Principais Projetos
 
 ### 🌿 Leaf & Me
 🟢 Concluído  
@@ -64,7 +64,8 @@ Projeto inspirado em estética sci-fi com UI imersiva.
 Projeto consumindo API com JavaScript puro.
 
 ### 🌐 ToDo List
-🟡 Em desenvolvimento  
+
+🟢 Concluído 
 🔗 https://github.com/jaozinpaulin/todo-list  
 Sistema de tarefas com localStorage (CRUD completo).
 
@@ -72,7 +73,27 @@ Sistema de tarefas com:
 - ✔ adicionar
 - ✔ remover
 - ✔ concluir tarefas
-- ✔ armazenamento com localStorage  
+- ✔ armazenamento com localStorage
+
+### 📚 myLibrary
+🟡 Em desenvolvimento  
+🔗 https://github.com/jaozinpaulin/mylibrary  
+
+Sistema de biblioteca com gerenciamento de livros, utilizando LocalStorage e manipulação dinâmica do DOM.
+
+#### ⚙️ Funcionalidades
+- ✔ Adicionar livros  
+- ✔ Remover livros  
+- ✔ Marcar como lido  
+- ✔ Listar livros  
+- ✔ Busca por título  
+- ✔ Armazenamento local (LocalStorage)  
+
+#### 🧰 Tecnologias
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- LocalStorage API  
 
 
 🟢 Concluído | 🟡 Em desenvolvimento | 🔵 Planejado
