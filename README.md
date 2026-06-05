@@ -5,20 +5,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=500&lines=Front-end+Developer+in+progress;JavaScript+Learner;Building+real+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=700&lines=Front-end+Developer+in+progress;JavaScript+%26+React+Student;Building+real+projects;Learning+React+and+Modern+Frontend" />
 </p>
 
 <p align="center">
-💻 Estudante de ADS | Front-end em formação <br>
-☕ Café, código e boas ideias em construção <br>
-🚀 Construindo projetos reais e evoluindo um commit por vez  
+💻 Estudante de ADS | Front-end Developer em formação <br>
+⚛️ Atualmente estudando React <br>
+☕ Café, código e projetos em construção <br>
+🚀 Evoluindo um commit por vez
 </p>
 
 ---
 
 ## 🧠 Sobre mim
-- 📚 Estudando HTML, CSS e JavaScript (Vanilla JS)
-- 🧩 Foco em lógica e construção de projetos reais
+
+- 📚 Estudando HTML, CSS, JavaScript e React
+- 🧩 Foco em lógica, componentes e projetos reais
+- 🚀 Construindo aplicações para portfólio e experiência prática
 - 🎯 Em busca da primeira oportunidade como desenvolvedor front-end
 
 ---
@@ -26,7 +29,7 @@
 ## 🛠️ Tecnologias que uso
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
 </p>
 
 <p align="center">
@@ -36,7 +39,11 @@
 ---
 
 ## 📚 Atualmente estudando
-- JavaScript avançado
+
+- React
+- Componentização
+- Hooks (useState e useEffect)
+- Consumo de APIs
 - Manipulação de DOM
 - Lógica de programação
 
@@ -45,74 +52,86 @@
 ## 🚀 Principais Projetos
 
 ### 🌿 Leaf & Me
+
 🟢 Concluído  
-🔗 https://github.com/jaozinpaulin/leaf-and-me  
+🔗 https://github.com/jaozinpaulin/leaf-and-me
+
 Projeto com foco em natureza e estética visual artística.
 
 ### 🤖 myDarling
+
 🟢 Concluído  
-🔗 https://github.com/jaozinpaulin/myDarling  
+🔗 https://github.com/jaozinpaulin/myDarling
+
 Projeto inspirado em estética sci-fi com UI imersiva.
 
 ### 📱 Pokédex
+
 🟢 Concluído  
-🔗 https://github.com/jaozinpaulin/myPokedex  
+🔗 https://github.com/jaozinpaulin/myPokedex
+
 Projeto consumindo API com JavaScript puro.
 
 ### 🌐 ToDo List
 
-🟢 Concluído 
-🔗 https://github.com/jaozinpaulin/todo-list  
+🟢 Concluído  
+🔗 https://github.com/jaozinpaulin/todo-list
+
 Sistema de tarefas com localStorage (CRUD completo).
 
-Sistema de tarefas com:
-- ✔ adicionar
-- ✔ remover
-- ✔ concluir tarefas
-- ✔ armazenamento com localStorage
+#### ⚙️ Funcionalidades
+
+- ✔ Adicionar tarefas
+- ✔ Remover tarefas
+- ✔ Concluir tarefas
+- ✔ Armazenamento com LocalStorage
 
 ### 📚 myLibrary
-🟡 Em desenvolvimento  
-🔗 https://github.com/jaozinpaulin/mylibrary  
 
-Sistema de biblioteca com gerenciamento de livros, utilizando LocalStorage e manipulação dinâmica do DOM.
+🟢 Concluído  
+🔗 https://github.com/jaozinpaulin/myLibrary-books
+
+Sistema de gerenciamento de biblioteca desenvolvido com JavaScript puro, LocalStorage e manipulação dinâmica do DOM.
 
 #### ⚙️ Funcionalidades
-- ✔ Adicionar livros  
-- ✔ Remover livros  
-- ✔ Marcar como lido  
-- ✔ Listar livros  
-- ✔ Busca por título  
-- ✔ Armazenamento local (LocalStorage)  
 
-#### 🧰 Tecnologias
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- LocalStorage API  
-
+- ✔ Cadastro de livros
+- ✔ Busca por título e autor
+- ✔ Favoritar livros
+- ✔ Download de livros
+- ✔ Marcar como lido
+- ✔ Filtros por categoria
+- ✔ Armazenamento com LocalStorage
+- ✔ Interface responsiva
 
 🟢 Concluído | 🟡 Em desenvolvimento | 🔵 Planejado
 
 ---
 
+## 🎯 Objetivos para 2026
+
+- 🚀 Aprender React de forma sólida
+- 💼 Conseguir minha primeira oportunidade na área
+- 📚 Construir projetos cada vez mais completos
+- 🌎 Evoluir meu inglês
+
+---
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaozinpaulin&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaozinpaulin&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaozinpaulin&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozinpaulin&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🎌 Inspiração
 
 <p align="center">
-  <i>Keep going. Step by step.</i>
+  <i>Code. Learn. Build. Repeat.</i>
 </p>
 
 <p align="center">
@@ -123,11 +142,11 @@ Sistema de biblioteca com gerenciamento de livros, utilizando LocalStorage e man
 ---
 
 <p align="center">
-  💙 Obrigado por visitar meu perfil  
+  💙 Obrigado por visitar meu perfil
   <br><br>
-  “毎日一歩ずつ” — Um passo por dia  
+  "毎日一歩ずつ" — Um passo por dia
   <br><br>
-  ☕ Café • Código • Consistência  
+  ☕ Café • Código • Consistência
   <br>
-  🚀 Em constante evolução como desenvolvedor  
+  🚀 Em constante evolução como desenvolvedor
 </p>
