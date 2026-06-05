@@ -116,30 +116,6 @@ Sistema de gerenciamento de biblioteca desenvolvido com JavaScript puro, LocalSt
 - 🌎 Evoluir meu inglês
 
 ---
-## 📊 Minhas estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaozinpaulin&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaozinpaulin&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozinpaulin&layout=compact&theme=tokyonight"/>
-</p>
----
-
-## 🎌 Inspiração
-
-<p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpjMWQ4eTZjamVoZWJjOXlub2cwaTdzaWE5cjkyYnUyYzVsNDd0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5MSivCJcmHEQ/giphy.gif" width="250"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhzNDdxNXB1N3BleTV1cG1panZlZWZqYXJhZzI3d2FnOGU0dGxvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OmYIN0MhfeJhhPjEK7/giphy.gif" width="250"/>
-</p>
-
----
 
 <p align="center">
   💙 Obrigado por visitar meu perfil
