@@ -104,9 +104,15 @@ Sistema de gerenciamento de biblioteca desenvolvido com JavaScript puro, LocalSt
 - ✔ Armazenamento com LocalStorage
 - ✔ Interface responsiva
 
-🟢 Concluído | 🟡 Em desenvolvimento | 🔵 Planejado
+### 🚌 myBus
+
+Sistema de viação em desenvolvimento com foco no aprendizado de React e integração com APIs. O projeto tem como objetivo simular uma plataforma moderna de transporte, permitindo a consulta de linhas, horários, rotas e informações de viagens através de uma interface intuitiva e responsiva.
+
+🔵 Planejado
 
 ---
+
+🟢 Concluído | 🟡 Em desenvolvimento | 🔵 Planejado
 
 ## 🎯 Objetivos para 2026
 
