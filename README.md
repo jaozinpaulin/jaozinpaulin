@@ -19,10 +19,18 @@
 
 ## 🧠 Sobre mim
 
-- 📚 Estudando HTML, CSS, JavaScript e React
-- 🧩 Foco em lógica, componentes e projetos reais
-- 🚀 Construindo aplicações para portfólio e experiência prática
+- 📚 Estudando desenvolvimento web com foco em Front-end
+- 🧩 Foco em lógica, componentes e construção de interfaces reais
+- 🚀 Construindo projetos para portfólio e prática profissional
 - 🎯 Em busca da primeira oportunidade como desenvolvedor front-end
+
+---
+
+## 🎯 Foco atual
+
+- 📌 Evoluindo com React e Tailwind CSS
+- 🧠 Construindo projetos reais para portfólio
+- 🚍 Desenvolvimento do TransitHub
 
 ---
 
@@ -33,19 +41,41 @@
 </p>
 
 <p align="center">
-  <i>Front-end focado em interfaces interativas e lógica com JavaScript</i>
+  <i>Front-end focado em interfaces modernas e desenvolvimento de aplicações web</i>
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- React
-- Componentização
-- Hooks (useState e useEffect)
+### ⚛️ Front-end
+- React (componentização e estrutura de projetos)
+- Tailwind CSS (estilização moderna e responsiva)
+- JavaScript (ES6+ e lógica de programação)
+
+### 🧠 Conceitos
+- Hooks (useState, useEffect)
 - Consumo de APIs
 - Manipulação de DOM
-- Lógica de programação
+- Estruturação de projetos React
+
+---
+
+## 🚀 Projetos em desenvolvimento
+
+### 🚍 TransitHub
+🟡 Em desenvolvimento  
+🔗 https://github.com/jaozinpaulin/TransitHub  
+
+Plataforma de busca de passagens com foco em experiência do usuário (UI/UX), desenvolvida com React e Tailwind CSS.
+
+Projeto inspirado em sistemas reais de transporte, com interface moderna e responsiva.
+
+#### ⚙️ Status atual
+- ✔ Header criado
+- ✔ Hero criado
+- 🔄 Primeiras implementações da interface
+- 🚧 Em evolução contínua
 
 ---
 
@@ -104,15 +134,15 @@ Sistema de gerenciamento de biblioteca desenvolvido com JavaScript puro, LocalSt
 - ✔ Armazenamento com LocalStorage
 - ✔ Interface responsiva
 
-### 🚌 myBus
-
-Sistema de viação em desenvolvimento com foco no aprendizado de React e integração com APIs. O projeto tem como objetivo simular uma plataforma moderna de transporte, permitindo a consulta de linhas, horários, rotas e informações de viagens através de uma interface intuitiva e responsiva.
-
-🔵 Planejado
-
 ---
 
-🟢 Concluído | 🟡 Em desenvolvimento | 🔵 Planejado
+## 📈 Status de evolução
+
+- 🧠 Aprendizado constante em React
+- 🛠️ Projetos práticos em andamento
+- 🚀 Construindo portfólio front-end
+
+---
 
 ## 🎯 Objetivos para 2026
 
@@ -126,7 +156,7 @@ Sistema de viação em desenvolvimento com foco no aprendizado de React e integr
 <p align="center">
   💙 Obrigado por visitar meu perfil
   <br><br>
-  "毎日一歩ずつ" — Um passo por dia
+  "Um passo por dia. Um commit por vez."
   <br><br>
   ☕ Café • Código • Consistência
   <br>
