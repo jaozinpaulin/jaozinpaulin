@@ -82,5 +82,5 @@ Interface temática interativa inspirada no universo de Darling in the Franxx co
 </p>
 
 <p align="center">
-  <i>"One commit at a time."</i>
+  <i>"One lesson at a time. One project at a time. One commit at a time."</i>
 </p>
