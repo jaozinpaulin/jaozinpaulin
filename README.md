@@ -17,11 +17,11 @@
 ### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,git,github,figma,vscode" />
 </p>
 
 <p align="center">
-  <b>Core:</b> React.js • TypeScript • Next.js • JavaScript (ES6+) • Tailwind CSS • HTML5/CSS3<br/>
+  <b>Core:</b> React.js • TypeScript • JavaScript (ES6+) • Tailwind CSS • HTML5/CSS3<br/>
   <b>Ferramentas & Práticas:</b> Git • GitHub • REST APIs • LocalStorage/Auth • Figma • Vite
 </p>
 
@@ -42,7 +42,7 @@ Meu objetivo é criar interfaces dinâmicas, acessíveis e de alta performance, 
 #### AniHub (Projeto Principal)
 Plataforma web completa para streaming e gerenciamento de animes online.
 - **Destaques:** Player de vídeo integrado, sistema de autenticação/login de usuários, armazenamento de dados em contas (animes salvos/favoritos, histórico), catálogo interativo e navegação dinâmica.
-- **Tech Stack:** React.js, Tailwind CSS, React Router, REST APIs, Context API / State Management.
+- **Tech Stack:** React.js, TypeScript, Tailwind CSS, React Router, REST APIs, Context API / State Management.
 - [Ver repositório](https://github.com/jaozinpaulin/AniHub)
 
 #### myLibrary
