@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%26+TypeScript+Enthusiast;Building+full-featured+web+apps;Focusing+on+Next.js+%26+Modern+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%26+TypeScript+Enthusiast;Building+full-featured+web+apps;Focusing+on+%26+Modern+UI" />
 </p>
 
 <p align="center">
