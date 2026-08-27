@@ -45,6 +45,12 @@ Plataforma web completa para streaming e gerenciamento de animes online.
 - **Tech Stack:** React.js, TypeScript, Tailwind CSS, React Router, REST APIs, Context API / State Management.
 - [Ver repositório](https://github.com/jaozinpaulin/AniHub)
 
+#### EnglishJourney
+Aplicação interativa voltada para o aprendizado e prática contínua do idioma inglês.
+- **Destaques:** Interface intuitiva com trilhas de estudo, cards interativos, acompanhamento de progresso e persistência de dados.
+- **Tech Stack:** React.js, TypeScript, Tailwind CSS, LocalStorage.
+- [Ver repositório](https://github.com/jaozinpaulin/EnglishJourney)
+
 #### myLibrary
 Sistema para gerenciamento de biblioteca pessoal e acervo digital de livros.
 - **Destaques:** Cadastro e busca de livros, filtros dinâmicos, sistema de favoritos, opção de download e persistência via LocalStorage.
