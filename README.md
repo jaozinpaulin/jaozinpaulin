@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%26+TypeScript+Enthusiast;Building+full-featured+web+apps;Focusing+on+%26+Modern+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%26+Next.js+Enthusiast;Building+full-featured+web+apps;Focusing+on+Modern+UI+%26+Performance" />
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 ### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css,git,github,figma,vscode" />
 </p>
 
 <p align="center">
-  <b>Core:</b> React.js • TypeScript • JavaScript (ES6+) • Tailwind CSS • HTML5/CSS3<br/>
+  <b>Core:</b> React.js • Next.js • TypeScript • JavaScript (ES6+) • Tailwind CSS • HTML5/CSS3<br/>
   <b>Ferramentas & Práticas:</b> Git • GitHub • REST APIs • LocalStorage/Auth • Figma • Vite
 </p>
 
@@ -68,11 +68,10 @@ Interface temática interativa inspirada no universo de Darling in the Franxx co
 ### Roadmap de Estudos (2026/2027)
 
 - [x] **Fundamentos & UI:** HTML5 Semântico, CSS3 Flexbox/Grid, JavaScript ES6+, Tailwind CSS
-- [x] **React Ecosystem:** Componentização, Hooks, React Router, Consumo de APIs, Autenticação Básica
-- [ ] **TypeScript:** Tipagem estrita, Interfaces, Generics e tipagem em componentes React
-- [ ] **Next.js & Performance:** App Router, SSR/SSG, Otimização e Core Web Vitals
-- [ ] **State & Real-Time:** TanStack Query (React Query) e WebSockets
-- [ ] **Testes & Qualidade:** Testes unitários com Vitest e React Testing Library
+- [x] **React & TypeScript:** Componentização, Hooks, Tipagem estrita e Interfaces
+- [x] **Next.js & Performance:** App Router, SSR/SSG e Otimização estrutural (Em andamento no Diário de Bordo)
+- [ ] **State & Real-Time:** Gerenciamento de estado avançado e consumo robusto de APIs
+- [ ] **Testes & Qualidade:** Testes unitários e boas práticas de código limpo
 
 ---
 
