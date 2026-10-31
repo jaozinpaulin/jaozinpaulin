@@ -75,7 +75,7 @@ Evolução da aplicação focada em experiência do usuário, design limpo e nov
 ---
 
 <p align="center">
-  <i>"The best things in life can't be coded."</i>
+  <i>"The best things in life can't be coded. peace ✌️"</i>
 </p>
 
 <p align="center">
